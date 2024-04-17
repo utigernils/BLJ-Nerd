@@ -1,7 +1,3 @@
-Great, thanks for providing the information! Based on that, here's a template for your GitHub README:
-
----
-
 # BLJ-Nerd Discord Bot
 
 BLJ-Nerd is a Discord bot that utilizes a Character AI API to generate responses in Discord conversations. With BLJ-Nerd, users can interact with two different personalities, providing an engaging and dynamic experience for Discord communities.
@@ -33,10 +29,6 @@ For example:
 ## API
 
 BLJ-Nerd utilizes the Character AI API provided by [kramcat](https://github.com/kramcat/CharacterAI) for generating responses. Make sure to obtain the necessary API keys and character keys as per the instructions provided by the API documentation.
-
-## License
-
-[License information to be added]
 
 ## Contributing
 
