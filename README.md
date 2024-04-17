@@ -38,6 +38,3 @@ Contributions to BLJ-Nerd are welcome! Feel free to fork this repository and sub
 
 For any questions, issues, or feedback, feel free to reach out to the developer at [mail@utigernils.ch](mailto:mail@utigernils.ch).
 
----
-
-Feel free to adjust any part of the template to better fit your preferences or provide more detailed information! Let me know if there's anything else you'd like to add or modify.
